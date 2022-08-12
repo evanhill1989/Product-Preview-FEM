@@ -235,6 +235,10 @@ SO I LIKE TO MAKE THE CROSSOVER VERY OBVIOUS
 */
 @media screen and (max-width: 800px){
 
+    .attribution {display:none;
+  }
+
+  
   body{
     display:flex;
     justify-content: center;
